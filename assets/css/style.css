@@ -1,0 +1,10 @@
+.wcr_coupon_restrict_msg_field #wcr_coupon_restrict_msg {
+    width: 100%;
+}
+.wcr_coupon_restrict_msg_field .description {
+    margin-left: 0 !important;
+    font-weight: bold;
+}
+.wcr_coupon_restrict_field span.description-inner-tag {
+    font-style: italic;
+}
